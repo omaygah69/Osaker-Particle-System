@@ -20,3 +20,4 @@
 /home/Omaygah69/Programming/AnonLearnsGraphics/Gyatt/obj/Debug/net8.0/Gyatt.pdb
 /home/Omaygah69/Programming/AnonLearnsGraphics/Gyatt/obj/Debug/net8.0/Gyatt.genruntimeconfig.cache
 /home/Omaygah69/Programming/AnonLearnsGraphics/Gyatt/obj/Debug/net8.0/ref/Gyatt.dll
+/home/Omaygah69/Programming/AnonLearnsGraphics/Gyatt/obj/Debug/net8.0/Gyatt.sourcelink.json
