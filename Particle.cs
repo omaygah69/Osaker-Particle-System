@@ -15,7 +15,7 @@ class Particle
         Position.Y = GetRandomValue(0, screenHeight - 1);
         Velocity.X = GetRandomFloat(-1.0f, 1.0f);
         Velocity.Y = GetRandomFloat(-1.0f, 1.0f);
-        // color = new Color(0, 0, 0, 100);
+        // color = new Color(0, 0, 0, 100); This one for dark particles
         color = GetRandomColor();
     }
     
