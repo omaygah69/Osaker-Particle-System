@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MP31JtuaQBw=",
+  "success": true,
+  "projectFilePath": "/home/Omaygah69/Programming/AnonLearnsGraphics/Gyatt/Gyatt.csproj",
+  "expectedPackageFiles": [
+    "/home/Omaygah69/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.6/microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "/home/Omaygah69/.nuget/packages/microsoft.net.illink.tasks/8.0.6/microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "/home/Omaygah69/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/home/Omaygah69/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/Omaygah69/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/Omaygah69/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.6/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
