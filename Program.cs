@@ -5,7 +5,6 @@ using System.Numerics;
 
 public class Program
 {
-
     static void Main()
     {
         const int ScreenWidth = 900;
